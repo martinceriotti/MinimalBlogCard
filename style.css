@@ -1,0 +1,39 @@
+* {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.container {
+  width: 336px;
+  padding: 16px;
+  margin: auto;
+  display: block;
+}
+
+#design {
+  background-color:#E6D6FC;
+  margin-top: 16px;
+  color: #6C727F;
+  border-radius: 1em;
+  padding: 5px;
+  text-align: center;
+  width: 25%;
+  font-size: 14px;
+}
+img {
+  width: 336px;
+  border-radius: 0.5em;
+}
+h1 {
+    color: #20293A ;
+    font-size: 18px;
+}
+body {
+    color: #6C727F;
+}
+#footer {
+    
+    display: block;
+    padding: 16px;
+    
+}
